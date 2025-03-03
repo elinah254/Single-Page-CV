@@ -8,5 +8,5 @@ A simple, responsive single-page CV built using HTML.
 - Inline styling for basic color formatting
 - Clickable buttons for LinkedIn and GitHub profiles
  - A favicon for branding
-
+n
    
